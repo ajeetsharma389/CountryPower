@@ -1,0 +1,33 @@
+
+Showing Recent Messages
+Test Suite 'AssignmentTestsWithQuick' started at 2019-12-06 18:57:24.622
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Check_Current_Date__Has_some_default_date_string_to_check]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssignmentTestsWithQuick.swift:58: error: -[Assigment_STests.AssignmentTestsWithQuick Check_Current_Date__Has_some_default_date_string_to_check] : expected to equal <2019-12-05>, got <2019-12-06>
+
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Check_Current_Date__Has_some_default_date_string_to_check]' failed (0.004 seconds).
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Checking_the_Request_URL__should_have_items_DataSource__count_equal_to_zero]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssignmentTestsWithQuick.swift:43: error: -[Assigment_STests.AssignmentTestsWithQuick Checking_the_Request_URL__should_have_items_DataSource__count_equal_to_zero] : expected to equal <https://api.data.gov.sg/v1/environment/psi>, got <https://api.data.gov.sg/v1/environment/psi?>
+
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Checking_the_Request_URL__should_have_items_DataSource__count_equal_to_zero]' failed (0.001 seconds).
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick ViewController_itemsDataSource_count__should_have_items_DataSource__count_equal_to_zero_at_initial_stage]' started.
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick ViewController_itemsDataSource_count__should_have_items_DataSource__count_equal_to_zero_at_initial_stage]' passed (0.021 seconds).
+Test Suite 'AssignmentTestsWithQuick' failed at 2019-12-06 18:57:24.650.
+	 Executed 3 tests, with 2 failures (0 unexpected) in 0.027 (0.029) seconds
+/Users/ajeet/Library/Developer/Xcode/DerivedData/Assigment_S-biatxuiqpyzceybubzbybyvudewh/Logs/Test/Test-Assigment_STests-2019.12.06_18-57-20-+0530.xcresult/1_Test/Diagnostics/Assigment_STests-7741AB28-C08E-4F02-8A5D-34ECB4B75C15/Assigment_STests-CD4D4AB9-1E0A-4C07-A9E6-2D67C9C41AAE/Session-Assigment_STests-2019-12-06_185720-Ag7K38.log
+
+Test Suite 'AssignmentTestsWithQuick' started at 2019-12-06 18:57:24.622
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Check_Current_Date__Has_some_default_date_string_to_check]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssignmentTestsWithQuick.swift:58: error: -[Assigment_STests.AssignmentTestsWithQuick Check_Current_Date__Has_some_default_date_string_to_check] : expected to equal <2019-12-05>, got <2019-12-06>
+
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Check_Current_Date__Has_some_default_date_string_to_check]' failed (0.004 seconds).
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Checking_the_Request_URL__should_have_items_DataSource__count_equal_to_zero]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssignmentTestsWithQuick.swift:43: error: -[Assigment_STests.AssignmentTestsWithQuick Checking_the_Request_URL__should_have_items_DataSource__count_equal_to_zero] : expected to equal <https://api.data.gov.sg/v1/environment/psi>, got <https://api.data.gov.sg/v1/environment/psi?>
+
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick Checking_the_Request_URL__should_have_items_DataSource__count_equal_to_zero]' failed (0.001 seconds).
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick ViewController_itemsDataSource_count__should_have_items_DataSource__count_equal_to_zero_at_initial_stage]' started.
+Test Case '-[Assigment_STests.AssignmentTestsWithQuick ViewController_itemsDataSource_count__should_have_items_DataSource__count_equal_to_zero_at_initial_stage]' passed (0.021 seconds).
+Test Suite 'AssignmentTestsWithQuick' failed at 2019-12-06 18:57:24.650.
+	 Executed 3 tests, with 2 failures (0 unexpected) in 0.027 (0.029) seconds
+
+
+Testing Complete    06/12/19, 6:57 PM    5.0 seconds

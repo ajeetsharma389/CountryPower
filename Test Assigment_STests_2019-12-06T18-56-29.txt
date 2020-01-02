@@ -1,0 +1,41 @@
+
+Showing Recent Messages
+Test Suite 'AssigmentSTests' started at 2019-12-06 18:56:35.041
+Test Case '-[Assigment_STests.AssigmentSTests testCheckDateAndTime]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssigmentSTests.swift:29: error: -[Assigment_STests.AssigmentSTests testCheckDateAndTime] : XCTAssertEqual failed: ("2019-12-04T14:31:50") is not equal to ("2019-12-06T18:56:35") - 
+Test Case '-[Assigment_STests.AssigmentSTests testCheckDateAndTime]' failed (0.007 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testGetCurrentDate]' started.
+Test Case '-[Assigment_STests.AssigmentSTests testGetCurrentDate]' passed (0.005 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssigmentSTests.swift:79: error: -[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData] : failed - Status code: 400
+Nothing to remove
+<unknown>:0: error: -[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData] : Asynchronous wait failed: Exceeded timeout of 5 seconds, with unfulfilled expectations: "Is returning correct data format?".
+Test Case '-[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData]' failed (5.634 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testRequestWithURL]' started.
+Test Case '-[Assigment_STests.AssigmentSTests testRequestWithURL]' passed (0.004 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testValidAPIGetHTTPStatusCode]' started.
+Test Case '-[Assigment_STests.AssigmentSTests testValidAPIGetHTTPStatusCode]' passed (0.114 seconds).
+Test Suite 'AssigmentSTests' failed at 2019-12-06 18:56:40.808.
+	 Executed 5 tests, with 3 failures (0 unexpected) in 5.764 (5.767) seconds
+/Users/ajeet/Library/Developer/Xcode/DerivedData/Assigment_S-biatxuiqpyzceybubzbybyvudewh/Logs/Test/Test-Assigment_STests-2019.12.06_18-56-28-+0530.xcresult/1_Test/Diagnostics/Assigment_STests-176440EA-610B-4B61-82C1-6D09E99731F7/Assigment_STests-90E99923-5A3C-4D30-B81D-B674513E44EC/Session-Assigment_STests-2019-12-06_185630-aMmHEI.log
+
+Test Suite 'AssigmentSTests' started at 2019-12-06 18:56:35.041
+Test Case '-[Assigment_STests.AssigmentSTests testCheckDateAndTime]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssigmentSTests.swift:29: error: -[Assigment_STests.AssigmentSTests testCheckDateAndTime] : XCTAssertEqual failed: ("2019-12-04T14:31:50") is not equal to ("2019-12-06T18:56:35") - 
+Test Case '-[Assigment_STests.AssigmentSTests testCheckDateAndTime]' failed (0.007 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testGetCurrentDate]' started.
+Test Case '-[Assigment_STests.AssigmentSTests testGetCurrentDate]' passed (0.005 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData]' started.
+/Users/ajeet/Desktop/helloSingapore/Assignment_S/Assigment_STests/AssigmentSTests.swift:79: error: -[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData] : failed - Status code: 400
+Nothing to remove
+<unknown>:0: error: -[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData] : Asynchronous wait failed: Exceeded timeout of 5 seconds, with unfulfilled expectations: "Is returning correct data format?".
+Test Case '-[Assigment_STests.AssigmentSTests testIsAPIReturningCorrectData]' failed (5.634 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testRequestWithURL]' started.
+Test Case '-[Assigment_STests.AssigmentSTests testRequestWithURL]' passed (0.004 seconds).
+Test Case '-[Assigment_STests.AssigmentSTests testValidAPIGetHTTPStatusCode]' started.
+Test Case '-[Assigment_STests.AssigmentSTests testValidAPIGetHTTPStatusCode]' passed (0.114 seconds).
+Test Suite 'AssigmentSTests' failed at 2019-12-06 18:56:40.808.
+	 Executed 5 tests, with 3 failures (0 unexpected) in 5.764 (5.767) seconds
+
+
+Testing Complete    06/12/19, 6:56 PM    12.3 seconds
