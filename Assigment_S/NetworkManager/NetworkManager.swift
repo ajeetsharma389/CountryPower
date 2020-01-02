@@ -1,7 +1,7 @@
 //  Assignment_s
 //
 //  Created by Ajeet on 02/12/19.
-//  Copyright © 2019 Capgemini. All rights reserved.
+//  . All rights reserved.
 //
 import Foundation
 /*
